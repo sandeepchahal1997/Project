@@ -6,7 +6,7 @@ class code{
 			System.out.println("We will contact you later Aplha.fiit");
 			int i;
 			for(i=0;i<5;i++){
-				System.out.println("We will contact you sooner Aplha.fiit"+i);
+				System.out.println("I will contact you sooner Aplha.fiit"+i);
 			}
                  }
 	  }
